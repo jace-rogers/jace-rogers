@@ -1,4 +1,6 @@
 <img width="992" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b83d068-c62c-47cf-8604-413ed7b8f2f5" />
+
+
 ### Hi, I'm Jace Rogers 👋
 
 Sixth Form student in **Trinidad & Tobago** studying **Pure Mathematics, Physics, and Information Technology**, aiming for a **Computer Science & Mathematics** degree and a career in **AI Research**.
