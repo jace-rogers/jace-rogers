@@ -1,4 +1,5 @@
-<img width="531" height="578" alt="image" src="https://github.com/user-attachments/assets/1f02d281-46b1-46c6-810d-af26a526db07" />
+<img width="992" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b83d068-c62c-47cf-8604-413ed7b8f2f5" />
+
 
 ### Hi, I'm Jace Rogers 👋
 
